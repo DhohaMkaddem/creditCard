@@ -1,0 +1,33 @@
+.card {
+  /* margin-top: 100px; */
+  height: 250px;
+  width: 400px;
+  border: 0;
+  border-radius: 10px;
+  background: url(http://www.psdgraphics.com/file/world-map-background.jpg)
+    no-repeat center center;
+  background-size: cover;
+  color: white;
+}
+.card-number {
+  height: 91px;
+  padding-top: 40px;
+  font-weight: 600;
+  font-size: 32px;
+  letter-spacing: 2px;
+}
+.exp {
+  position: relative;
+  top: 50%;
+  left: 75%;
+}
+.exp-val {
+  position: relative;
+  top: 55%;
+  left: 75%;
+}
+.name {
+  position: relative;
+  top: 55%;
+  left: 10%;
+}
